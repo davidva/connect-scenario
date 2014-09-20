@@ -1,0 +1,22 @@
+{
+  "name": "connect-scenario",
+  "version": "0.0.0",
+  "description": "A Connect middleware to prepare scenarios for e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidva/connect-scenario.git"
+  },
+  "keywords": [
+    "connect"
+  ],
+  "author": "David Vilar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/davidva/connect-scenario/issues"
+  },
+  "homepage": "https://github.com/davidva/connect-scenario"
+}
